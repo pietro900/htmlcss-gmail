@@ -1,0 +1,42 @@
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(nuvole.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0% 18%;
+}
+header img{
+    vertical-align: middle;
+    width: 65px;
+
+}
+
+header{
+    margin: 10px;
+    padding: 10px 0px;
+    border-bottom: 2px solid black
+
+}
+
+div {
+    display:inline-block;
+    margin-right: 50px;
+    margin-left:25px;
+}
+
+li{
+    font: 18px;
+    font-weight: bold;
+}
+
+footer{
+    border-top: 2px solid black;
+}
+p{
+    color: inherit;
+    text-align: center;
+}
